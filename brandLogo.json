@@ -1,0 +1,22 @@
+[
+  {
+    "brandId": "1",
+    "url": "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756878624/amazon_nlgpac.png",
+    "brandName": "Amazon"
+  },
+  {
+    "brandId": "2",
+    "url": "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756878624/meesho_snjzjk.png",
+    "brandName": "Meesho"
+  },
+  {
+    "brandId": "3",
+    "url": "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756878624/myntra_em6umm.png",
+    "brandName": "Myntra"
+  },
+  {
+    "brandId": "4",
+    "url": "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756878624/shopsy_olg3ym.png",
+    "brandName": "Shopsy"
+  }
+]
