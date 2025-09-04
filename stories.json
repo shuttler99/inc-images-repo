@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "brandName": "Amazon",
+    "associated_images": [
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984551/Gemini_Generated_Image_e5pc2ce5pc2ce5pc_gcpbgi.png",
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984542/kitchen_ulucio.png",
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984539/Gemini_Generated_Image_b3fx4lb3fx4lb3fx_jeyjpz.png"
+    ]
+  },
+  {
+    "id": "2",
+    "brandName": "Meesho",
+    "associated_images": [
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984537/Gemini_Generated_Image_nad3q4nad3q4nad3_pbwdvr.png",
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984535/Gemini_Generated_Image_o0r2zvo0r2zvo0r2_aj6xqh.png",
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984533/Gemini_Generated_Image_vueybfvueybfvuey_dcgfhn.png"
+    ]
+  },
+  {
+    "id": "3",
+    "brandName": "Myntra",
+    "associated_images": [
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984530/Gemini_Generated_Image_2rwi732rwi732rwi_iyrxig.png",
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984529/Gemini_Generated_Image_4ybt584ybt584ybt_k04wcc.png",
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984529/Gemini_Generated_Image_qdema1qdema1qdem_bs21g5.png"
+    ]
+  },
+  {
+    "id": "4",
+    "brandName": "Shopsy",
+    "associated_images": [
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984526/Gemini_Generated_Image_xc334xxc334xxc33_ohbgsd.png",
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984523/Gemini_Generated_Image_ngdk9pngdk9pngdk_kxzclh.png",
+      "https://res.cloudinary.com/dlvrnwaq9/image/upload/v1756984515/Gemini_Generated_Image_2rwi732rwi732rwi_webplx.png"
+    ]
+  }
+]
